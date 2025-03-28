@@ -1,0 +1,50 @@
+.card {
+    width:500px; 
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px navy; 
+    margin: 20px; 
+    padding: 40px;
+}
+
+.border{
+    border-radius: 20px;
+}
+
+.title{
+    font-family: Arial; 
+    font-size: 30px;
+    font-style: normal;
+}
+
+.main_color{
+    color: navy;
+}
+
+.text{
+    font-family: Arial;
+    font-size: 15px;
+    font-style: italic;
+}
+        
+.icone1{
+    width: 100px;
+    height: 100px; 
+    margin-top: 20px;
+    background-image: url( https://cdn-icons-png.flaticon.com/512/706/706830.png);
+    background-size: cover;
+}       
+
+.icone2{
+    width: 100px;
+    height: 100px; 
+    margin-top: 20px;
+    background-image: url( https://cdn-icons-png.flaticon.com/256/3681/3681928.png);
+    background-size: cover;
+}
+
+/*
+cover ajusta na horizontal e cobre todo o espaço,
+contain mostra ela toda, mesmo que fiquem espaços ao lado;
+*/  
